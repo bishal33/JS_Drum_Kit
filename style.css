@@ -1,7 +1,8 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg') bottom center;
+  background: url('./background3.jpg') bottom center;
   background-size: cover;
+  /* background-color:whitesmoke; */
 }
 
 body,html {
